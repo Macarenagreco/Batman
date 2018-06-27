@@ -1,0 +1,26 @@
+html { background-color:black
+}
+p {  color:black
+  
+} 
+body {
+  width: 600px;
+  margin:0 auto;
+  background-color:blue;
+  padding: 0 40px 40px 40px;
+  border:10px solid beige;
+} h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: black;
+  text-shadow: 3px 2px 3px black;
+}
+h2 {
+  margin: 0;
+  padding: 20px 0;    
+  color:black;
+  text-shadow: 1px 1px 1px black;
+}
+p {color: black}
+ h4 {color : black ; text-shadow : 1px 1px 1px black}
+ li {color :black}
